@@ -1,0 +1,15 @@
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\Bus.dll
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\Bus.pdb
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\Bus.xml
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\DAL.dll
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\DTO.dll
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\DAL.pdb
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\DAL.xml
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\DTO.pdb
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\bin\Debug\DTO.xml
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\obj\Debug\Bus.vbprojResolveAssemblyReference.cache
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\obj\Debug\Bus.Resources.resources
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\obj\Debug\Bus.vbproj.GenerateResource.Cache
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\obj\Debug\Bus.dll
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\obj\Debug\Bus.xml
+E:\UIT\HK2 2017-2018\QuanLyNhaSach\Bus\obj\Debug\Bus.pdb
